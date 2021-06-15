@@ -3,7 +3,7 @@
 ## Bootcamp HTML Web Developer - Digital Innovation One
 
 ### 🚀 Tecnologias utilizadas:
-![](Docs/html5.png) ![](Docs/css3.png)
+![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - HTML 5
 - CSS 3
 
